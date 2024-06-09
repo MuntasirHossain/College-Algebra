@@ -2,7 +2,7 @@
 1. The Product Rule: x^n . x^m = x^(n+m)
 2. The Quotient Rule: x^n / x^m = x^(n-m)
 3. The Power Rule: (x^n)^m = x^(n.m)
-4. Power of Zeor: x^0 = 1
+4. Power of Zeor: x^0 = 1                         ; Remember 0^0 is undefined.
 5. Negative exponents: x^(-n) = 1/x^n
 6. Fractional exponents: x^(1/n) = n√(x)
 7. Distribute an exponent over a product: (x.y)^m = (x^m) . (y^m)
