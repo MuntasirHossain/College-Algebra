@@ -5,3 +5,5 @@
 4. Power of Zeor: x^0 = 1
 5. Negative exponents: x^(-n) = 1/x^n
 6. Fractional exponents: x^(1/n) = n√(x)
+7. Distribute an exponent over a product: (x.y)^m = (x^m) . (y^m)
+8. Distribute an exponent over a quotient: (x/y)^n = (x^n) / (y^n)
