@@ -3,3 +3,11 @@
 2. Factor by grouping: (A method to look for if there are four terms in the expression)
 
 3. Factor quadratics: (A quadratic expression is a polynomial expression of degree 2, which can be written in the standard form ax^2+bx+c. The coefficient a must be non zero for it to be quadratic expression, otherwise it would be a linear expression.
+
+4. Difference of squares.
+
+5. Difference or sum of cubes.
+    a. a^3 + b^3 = (a+b) (a^2-ab+b^2)
+    b. a^3 - b^3 = (a-b) (a^2+ab+b^2)
+
+
